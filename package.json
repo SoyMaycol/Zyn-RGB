@@ -1,0 +1,27 @@
+{
+  "name": "zyn-rgb",
+  "version": "1.0.0",
+  "description": "RGB neon theme plugin for Zyn Agent",
+  "author": "SoyMaycol",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "zyn",
+    "plugin",
+    "theme",
+    "rgb",
+    "neon",
+    "terminal"
+  ],
+  "files": [
+    "src/index.js",
+    "manifest.json",
+    "src/rgb-theme.json",
+    "README.md"
+  ],
+  "zyn": {
+    "type": "theme",
+    "name": "rgb",
+    "themeFile": "src/rgb-theme.json"
+  }
+} 
