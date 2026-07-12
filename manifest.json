@@ -1,6 +1,6 @@
 {
   "name": "zyn-theme-rgb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "theme",
   "description": "Adds a live RGB neon theme with animated hue cycling.",
   "author": "Maycol"
