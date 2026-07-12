@@ -5,7 +5,7 @@ A live animated RGB theme plugin for Zyn.
 ## Install locally
 
 ```bash
-/plugins install zyn-theme-rgb@1.0.1
+/plugins install zyn-theme-rgb
 ```
 
 ## Use
