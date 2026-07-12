@@ -1,0 +1,7 @@
+{
+  "name": "zyn-theme-rgb",
+  "version": "1.0.0",
+  "description": "Live RGB theme for Zyn with animated hue cycling.",
+  "main": "index.js",
+  "license": "MIT"
+}
